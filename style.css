@@ -522,10 +522,9 @@ article .icon {
     z-index: -1;
   }
 
-  .project-video3 {
-    max-width: 100%; /* Adjust the maximum width to fit the screen */
-    height: auto; /* Maintain the video's aspect ratio */
-    display: block; /* Remove any extra spacing below the video */
-    margin: 0 auto; /* Center the video horizontally */
-  }
+  .project-video {
+    width: 100%; /* Adjust the width as needed */
+    max-width: 400px; /* Set a maximum width */
+    height: auto; /* Maintain aspect ratio */
+}
   
